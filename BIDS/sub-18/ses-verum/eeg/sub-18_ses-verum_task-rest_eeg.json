@@ -1,0 +1,17 @@
+{
+  "InstitutionName": "Ural Federal University",
+  "InstitutionalDepartmentName": "Laboratory of Neurotechnology",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "EGI",
+  "EEGGround": "n/a",
+  "EEGReference": "Cz",
+  "EEGChannelCount": 129,
+  "MiscChannelCount": 0,
+  "EOGChannelCount": 0,
+  "SoftwareFilters": "n/a",
+  "TaskDescription": "Match-to-sample verbal working memory taskThree types of tasks were presented: Two types of the task required manipulation with the memory content.In the \"Backward\" task, participants were asked to mentally reverse the order of the letters in memory. For the \"Alphabet\" task, they were required to mentally rearrange the letters in alphabetical order. The \"Forward\" task, on the other hand, simply involved retaining the letter set as presented, without any mental reordering. 4 or 6 letter sets were presented. Thus, there were three levels of the factor TASK and two levels of the factor LOAD.",
+  "TaskName": "mixed",
+  "RecordingType": "continuous",
+  "RecordingDuration": 209.091,
+  "SamplingFrequency": 1000
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "thetatACSWorkingMemory",
+  "ReferencesAndLinks": [""],
+  "Authors": ["Yuri G. Pavlov", "Dauren Kasanov"],
+  "License": "CC0",
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}
